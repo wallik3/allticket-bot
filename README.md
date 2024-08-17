@@ -5,7 +5,7 @@
 
 ## Demo Usage
 - The following video demonstrate how our bot works regarding to the configuration `user.json`
-![Demonstration](https://github.com/wallik3/allticket-bot/blob/main/output/allticketbot%20example.mp4](https://github.com/wallik3/allticket-bot/blob/main/output/allticketbot%20example.gif?raw=true)))
+![Demonstration](https://github.com/wallik3/allticket-bot/blob/main/output/allticketbot%20example.mp4](https://github.com/wallik3/allticket-bot/blob/main/output/allticketbot%20example.gif?raw=true))
 
 ## Features
 
