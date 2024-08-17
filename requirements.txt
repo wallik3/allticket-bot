@@ -1,0 +1,3 @@
+selenium-recaptcha-solver
+beautifulsoup4
+# selenium==4.8.0
